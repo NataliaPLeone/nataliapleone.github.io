@@ -1,0 +1,19 @@
+languageCode = "pt-BR"
+languageName = "Português"
+languageDirection = "ltr"
+weight = 1
+
+title = "Blog"
+copyright = "&copy; 2024 Congo contributors"
+
+[params]
+  dateFormat = "2 Janeiro 2006"
+
+  mainSections = ["samples"]
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+
+[params.author]
+  name = "Nat"
+  headline = "oi"
+  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  

@@ -1,0 +1,15 @@
+baseURL: "https://github.com/NataliaPLeone/NataliaPLeone.github.io"
+languageCode: "pt-br"
+title: "Meu Blog Hugo"
+
+theme: "congo"
+
+defaultContentLanguage: "pt-br"
+defaultContentLanguageInSubdir: false
+
+languages:
+  pt-br:
+    languagecode: "pt-br"
+    languagename: "Português"
+    weight: 1
+    default: true

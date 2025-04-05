@@ -1,0 +1,27 @@
+baseURL= "https://nataliapleone.github.io/"
+
+languageCode = "pt-br"
+theme = "congo"
+defaultContentLanguage = "pt-br"
+defaultContentLanguageInSubdir = false
+
+enableRobotsTXT = true
+summaryLength = 0
+
+[pagination]
+  pagerSize = 15
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[privacy]
+  [privacy.vimeo]
+    enableDNT = true
+  [privacy.x]
+    enableDNT = true
+  [privacy.youTube]
+    privacyEnhanced = true
+
+[services]
+  [services.x]
+    disableInlineCSS = true

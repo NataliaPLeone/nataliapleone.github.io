@@ -1,0 +1,10 @@
+defaultContentLanguage = 'pt-br'
+languageCode = 'pt-br'
+defaultContentLanguageInSubdir = false
+
+[languages]
+
+    [languages.pt-br]
+    languageName = 'Português'
+    weight = 1
+    contentDir = 'content/pt-br'
